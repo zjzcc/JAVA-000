@@ -1,3 +1,3 @@
 学习笔记
 
-暂时没有什么总结
+JVM总结（未完结）：https://www.kdocs.cn/l/spY6NOAa9yGH
